@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Language Translation Service</title>
+</head>
+<body>
+  <header>
+    <h1>Language Translation Service</h1>
+  </header>
+  <nav>
+    <ul>
+      <li><a href="#about">About</a></li>
+      <li><a href="#services">Services</a></li>
+      <li><a href="#pricing">Pricing</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+  <main>
+    <section id="about">
+      <h2>About Us</h2>
+      <p>We are a professional language translation service, providing high-quality translations for businesses and individuals. We use the latest AI technology to ensure accurate and fast translations.</p>
+    </section>
+    <section id="services">
+      <h2>Our Services</h2>
+      <ul>
+        <li>Document Translation</li>
+        <li>Website Translation</li>
+        <li>Software Localization</li>
+        <li>Interpretation Services</li>
+      </ul>
+    </section>
+    <section id="pricing">
+      <h2>Pricing</h2>
+      <p>Our pricing is based on the number of words to be translated and the language pair. Contact us for a free quote.</p>
+    </section>
+    <section id="contact">
+      <h2>Contact Us</h2>
+      <p>Email: info@languageservice.com</p>
+      <p>Phone: +1 555 555 5555</p>
+    </section>
+  </main>
+  <footer>
+    <p>Copyright ©2021 Language Translation Service</p>
+  </footer>
+</body>
+</html>
